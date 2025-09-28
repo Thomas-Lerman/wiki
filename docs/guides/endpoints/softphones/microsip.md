@@ -2,7 +2,7 @@
 
 ## Instructions
 
-1. Download and install from \[MicroSIP website](https://www.MicroSIP.org/) (free)
+1. Download and install from [MicroSIP website](https://www.MicroSIP.org/) (free)
 
 2. Click the drop-down menu in the top-right corner and click on "Add Account"
 

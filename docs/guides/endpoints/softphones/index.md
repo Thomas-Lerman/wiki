@@ -10,6 +10,7 @@ We have the following Guides available now:
 * [Jami](./jami.md)
 * [Linphone](./linphone.md)
 * [MicroSIP](./microsip.md)
+* [MizuDroid](./mizudroid.md)
 * [Zoiper](./zoiper.md)
 
 ---
